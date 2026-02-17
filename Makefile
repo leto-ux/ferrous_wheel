@@ -4,7 +4,7 @@ install:
 	cargo install --path .
 
 uninstall:
-	cargo uninstall corroded_rsvp
+	cargo uninstall ferrous_wheel
 
 build:
 	cargo build --release
